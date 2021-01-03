@@ -1,0 +1,4 @@
+File Handling in Java Project by Simplilearn
+appending text into file
+This is the 1st appended line
+This is the 2nd appended line
